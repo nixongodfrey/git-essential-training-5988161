@@ -1,1 +1,3 @@
 Git Status demo text file.
+
+New Line added.
